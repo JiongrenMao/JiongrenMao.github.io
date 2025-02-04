@@ -11,21 +11,21 @@ last_name: Mao
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-position: Professor of Artificial Intelligence
+position: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Hong Kong University of Science and Technology
+    url: https://hkust.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include air-sea interaction, CESM and machine learning.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,6 +54,6 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I am Jiongren Mao, currently an undergraduate student at Ocean University of China, working under the guidance of 
+Prof. Jian Shi, and an incoming M.Phil. student at The Hong Kong University of Science and Technology, where I will be
+ working with Prof. Mengqian Lu. My research interests lie in air-sea interaction, CESM, and machine learning.
