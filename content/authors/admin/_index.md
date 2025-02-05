@@ -3,7 +3,7 @@
 title: 毛炯人
 
 # Name pronunciation (optional)
-name_pronunciation: Jiongren Mao
+name_pronunciation: Mao Jiongren
 
 # Full name (for SEO)
 first_name: Jiongren
@@ -54,6 +54,5 @@ highlight_name: true
 website: ""
 ---
 
-Hello, I am Jiongren Mao, currently an undergraduate student at Ocean University of China, working under the guidance of 
-Prof. Jian Shi, and an incoming M.Phil. student at The Hong Kong University of Science and Technology, where I will be
- working with Prof. Mengqian Lu. My research interests lie in air-sea interaction, CESM, and machine learning.
+Hello, I am Jiongren Mao. I am currently an undergraduate student at Ocean University of China
+under the guidance of [Prof. Jian Shi](https://coas.ouc.edu.cn/2023/0602/c8874a434262/page.htm) and I will work with [Prof. Mengqian Lu](https://cemlu.people.ust.hk/individual/proflu.html) as an incoming M.Phil.student at The Hong Kong University of Science and Technology. My research interests include air-sea interaction, CESM, and machine learning.
