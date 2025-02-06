@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/ResearchGate
+    url: https://www.researchgate.net/profile/Mao-Jiongren
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
@@ -55,4 +55,4 @@ website: ""
 ---
 
 Hello, I am Jiongren Mao. I am currently an undergraduate student at Ocean University of China
-under the guidance of [Prof. Jian Shi](https://coas.ouc.edu.cn/2023/0602/c8874a434262/page.htm) and I will work with [Prof. Mengqian Lu](https://cemlu.people.ust.hk/individual/proflu.html) as an incoming M.Phil.student at The Hong Kong University of Science and Technology. My research interests include air-sea interaction, CESM and machine learning.
+under the guidance of [Prof. Jian Shi](https://coas.ouc.edu.cn/2023/0602/c8874a434262/page.htm) and I will be an incoming M.Phil.student under the guidance of [Prof. Mengqian Lu](https://cemlu.people.ust.hk/individual/proflu.html) at The Hong Kong University of Science and Technology. My research interests include air-sea interaction, CESM and machine learning.
