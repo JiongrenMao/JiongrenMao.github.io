@@ -3,7 +3,7 @@
 title: 毛炯人
 
 # Name pronunciation (optional)
-name_pronunciation: Mao Jiongren
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Jiongren
@@ -31,21 +31,17 @@ bio: My research interests include air-sea interaction, CESM and machine learnin
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:china_mjr@outlook.com'
     label: E-mail Me
-  - icon: brands/ResearchGate
+  - icon: brands/researchgate
     url: https://www.researchgate.net/profile/Mao-Jiongren
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    label: Follow me on ResearchGate  # 添加标签
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -55,4 +51,4 @@ website: ""
 ---
 
 Hello, I am Jiongren Mao. I am currently an undergraduate student at Ocean University of China
-under the guidance of [Prof. Jian Shi](https://coas.ouc.edu.cn/2023/0602/c8874a434262/page.htm) and I will be an incoming M.Phil.student under the guidance of [Prof. Mengqian Lu](https://cemlu.people.ust.hk/individual/proflu.html) at The Hong Kong University of Science and Technology. My research interests include air-sea interaction, CESM and machine learning.
+under the guidance of [Prof. Jian Shi](https://coas.ouc.edu.cn/2023/0602/c8874a434262/page.htm) and I will be an incoming M.Phil. student under the guidance of [Prof. Mengqian Lu](https://cemlu.people.ust.hk/individual/proflu.html) at The Hong Kong University of Science and Technology. My research interests include air-sea interaction, CESM and machine learning.
