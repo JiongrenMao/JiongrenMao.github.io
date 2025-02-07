@@ -4,13 +4,13 @@
 main:
   - name: Home
     url: /
-    weight: 10
+    weight: 15
   - name: Researches
     url: tags/
-    weight: 20
+    weight: 25
   - name: Events
     url: tags/
-    weight: 30
+    weight: 35
   - name: Contact me
     url: tags/
-    weight: 40
+    weight: 45
