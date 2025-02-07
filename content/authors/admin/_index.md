@@ -38,7 +38,7 @@ profiles:
     label: Follow me on ResearchGate  # 添加标签
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/google
+  - icon: academicons/google-scholar
     url: https://www.google.com
     label: Visit Google Scholar
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`

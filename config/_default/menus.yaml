@@ -11,6 +11,6 @@ main:
   - name: Events
     url: tags/
     weight: 40
-  - name: Contact me
+  - name: Contact me ! 
     url: tags/
     weight: 50
