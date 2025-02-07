@@ -33,11 +33,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:china_mjr@outlook.com'
     label: E-mail Me
-  - icon: brands/researchgate
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Mao-Jiongren
     label: Follow me on ResearchGate  # 添加标签
   - icon: brands/linkedin
     url: https://www.linkedin.com/
+  - icon: brands/google
+    url: https://www.google.com
+    label: Visit Google Scholar
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
