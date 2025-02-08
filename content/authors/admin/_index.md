@@ -41,6 +41,9 @@ profiles:
   - icon: academicons/google-scholar
     url: https://www.google.com
     label: Visit Google Scholar
+  - icon: wifi
+    url: https://www.cnblogs.com/china-mjr
+    label: Visit My Blog on Cnblogs
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
